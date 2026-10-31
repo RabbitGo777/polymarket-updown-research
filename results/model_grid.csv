@@ -1,0 +1,65 @@
+universe,features,num_leaves,min_data_in_leaf,learning_rate,valid_log_loss,btc_gap
+BTC only,binance,7,100,0.02,0.4897,0.0315
+BTC only,binance,7,100,0.05,0.48934,0.03022
+BTC only,binance,7,500,0.02,0.48788,0.03095
+BTC only,binance,7,500,0.05,0.48827,0.03062
+BTC only,binance,31,100,0.02,0.49887,0.03156
+BTC only,binance,31,100,0.05,0.49986,0.03124
+BTC only,binance,31,500,0.02,0.48936,0.03109
+BTC only,binance,31,500,0.05,0.48971,0.03097
+BTC only,binance+oracle,7,100,0.02,0.40745,0.02938
+BTC only,binance+oracle,7,100,0.05,0.40901,0.02978
+BTC only,binance+oracle,7,500,0.02,0.41153,0.02896
+BTC only,binance+oracle,7,500,0.05,0.41115,0.02957
+BTC only,binance+oracle,31,100,0.02,0.41533,0.03014
+BTC only,binance+oracle,31,100,0.05,0.4141,0.03146
+BTC only,binance+oracle,31,500,0.02,0.41183,0.02951
+BTC only,binance+oracle,31,500,0.05,0.41251,0.03016
+BTC only,binance+oracle+book,7,100,0.02,0.35326,0.0131
+BTC only,binance+oracle+book,7,100,0.05,0.35075,0.01435
+BTC only,binance+oracle+book,7,500,0.02,0.35611,0.01232
+BTC only,binance+oracle+book,7,500,0.05,0.35469,0.01255
+BTC only,binance+oracle+book,31,100,0.02,0.36105,0.01666
+BTC only,binance+oracle+book,31,100,0.05,0.36053,0.01614
+BTC only,binance+oracle+book,31,500,0.02,0.35687,0.01254
+BTC only,binance+oracle+book,31,500,0.05,0.35713,0.01225
+BTC only,price+correction,7,100,0.02,0.34466,0.00876
+BTC only,price+correction,7,100,0.05,0.34315,0.01095
+BTC only,price+correction,7,500,0.02,0.34575,0.01144
+BTC only,price+correction,7,500,0.05,0.34557,0.01151
+BTC only,price+correction,31,100,0.02,0.34759,0.0082
+BTC only,price+correction,31,100,0.05,0.34828,0.00893
+BTC only,price+correction,31,500,0.02,0.34572,0.01076
+BTC only,price+correction,31,500,0.05,0.34597,0.01049
+all six coins,binance,7,100,0.02,0.47703,0.02776
+all six coins,binance,7,100,0.05,0.47482,0.02591
+all six coins,binance,7,500,0.02,0.47723,0.02798
+all six coins,binance,7,500,0.05,0.47385,0.02613
+all six coins,binance,31,100,0.02,0.48039,0.02513
+all six coins,binance,31,100,0.05,0.47932,0.02516
+all six coins,binance,31,500,0.02,0.47785,0.02564
+all six coins,binance,31,500,0.05,0.47746,0.02551
+all six coins,binance+oracle,7,100,0.02,0.41991,0.0172
+all six coins,binance+oracle,7,100,0.05,0.41729,0.01708
+all six coins,binance+oracle,7,500,0.02,0.42152,0.01761
+all six coins,binance+oracle,7,500,0.05,0.41957,0.01763
+all six coins,binance+oracle,31,100,0.02,0.41705,0.01862
+all six coins,binance+oracle,31,100,0.05,0.41777,0.01866
+all six coins,binance+oracle,31,500,0.02,0.41663,0.01936
+all six coins,binance+oracle,31,500,0.05,0.41777,0.01875
+all six coins,binance+oracle+book,7,100,0.02,0.38309,0.00316
+all six coins,binance+oracle+book,7,100,0.05,0.38335,0.00415
+all six coins,binance+oracle+book,7,500,0.02,0.381,0.00334
+all six coins,binance+oracle+book,7,500,0.05,0.38125,0.00404
+all six coins,binance+oracle+book,31,100,0.02,0.38717,0.00654
+all six coins,binance+oracle+book,31,100,0.05,0.38797,0.00717
+all six coins,binance+oracle+book,31,500,0.02,0.38481,0.00701
+all six coins,binance+oracle+book,31,500,0.05,0.38487,0.00692
+all six coins,price+correction,7,100,0.02,0.37541,0.00038
+all six coins,price+correction,7,100,0.05,0.37546,0.00035
+all six coins,price+correction,7,500,0.02,0.37562,0.00064
+all six coins,price+correction,7,500,0.05,0.37563,0.00042
+all six coins,price+correction,31,100,0.02,0.37542,0.00085
+all six coins,price+correction,31,100,0.05,0.37534,0.00134
+all six coins,price+correction,31,500,0.02,0.37547,0.00106
+all six coins,price+correction,31,500,0.05,0.37528,0.00166

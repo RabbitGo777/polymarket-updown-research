@@ -1,0 +1,7 @@
+[tool.ruff]
+line-length = 120
+extend-exclude = ["notebooks"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
