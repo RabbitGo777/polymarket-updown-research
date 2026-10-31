@@ -4,6 +4,8 @@ How fast does Polymarket follow Binance? Is its price a fair probability? Can a 
 
 Two notebooks answer these questions on one full day of Polymarket 5- and 15-minute crypto markets, recorded alongside Binance, Bybit, OKX, Coinbase and the Chainlink oracle. The day is a free dataset on Hugging Face, so everything here can be rerun without an account.
 
+The lag measurement also has a [short write-up on keydata.shop](https://keydata.shop/research/polymarket-binance-lag).
+
 ## Findings
 
 All numbers describe one day, 2026-10-20: 2,304 markets across BTC, ETH, SOL, XRP, DOGE and BNB.
